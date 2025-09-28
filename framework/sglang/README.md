@@ -5,3 +5,6 @@
 
 # blog
 [ANT Group H20 Optimization](https://lmsys.org/blog/2025-09-26-sglang-ant-group/)
+
+# Qwen3-Next PR
+https://github.com/sgl-project/sglang/pull/10233/files
