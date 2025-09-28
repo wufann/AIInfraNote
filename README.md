@@ -13,6 +13,9 @@
 
 ## lib
 
+## training
+[training overview](https://huggingface.co/spaces/Gantrol/ultrascale-playbook-zh-cn)
+
 ## hardware
 
 ## tools
